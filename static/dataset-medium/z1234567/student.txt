@@ -1,0 +1,8 @@
+zid: z1234567
+email: 648013364@qq.com
+friends: ()
+full_name: ZHIHAO YE
+birthday: 1993-01-01
+program: IT
+home_suburb: City
+password: 1112
